@@ -34,19 +34,17 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 - Employees in the low salary band are more likely to leave.
 - Most attrition occurs within the first 1–5 years of employment.
 
-## Dashboard Preview
-
 ### Overview
-![Overview](Screenshots/overview.png)
+![Overview](./screenshots/overview.png)
 
 ### Attrition Analysis
-![Attrition](Screenshots/attrition.png)
+![Attrition](./screenshots/attrition.png)
 
 ### Root Cause Analysis
-![Root Cause](Screenshots/rootcause.png)
+![Root Cause](./screenshots/rootcause.png)
 
 ### Attrition Insights
-![Insights](Screenshots/insights.png)
+![Insights](./screenshots/insights.png)
 
 ### Prediction
-![Prediction](Screenshots/prediction.png)
+![Prediction](./screenshots/prediction.png)
