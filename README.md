@@ -1,38 +1,40 @@
-# HR-Analytics-Dashboard
-Interactive HR Analytics Dashboard built using Power BI.
-
 # HR Analytics Dashboard
 
-## Overview
-An interactive HR Analytics Dashboard developed using Power BI to analyze employee attrition, workforce demographics, salary distribution, and employee risk factors.
+## Project Overview
+
+This project is an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition, workforce demographics, salary distribution, and employee risk factors.
 
 ## Tools Used
+
 - Power BI
 - DAX
 - Power Query
 - Excel
 
 ## Key Metrics
+
 - Total Employees: 1233
 - Attrition Count: 237
 - Attrition Rate: 16%
 - Average Salary: 14,313
+- Average Experience: 11 Years
 
 ## Dashboard Pages
-- Overview
-- Attrition Analysis
-- Root Cause Analysis
-- Attrition Insights
-- Employee Risk Prediction
 
-## Features
-- Interactive Filters
-- KPI Cards
-- Attrition Analysis
-- Salary Analysis
-- Employee Risk Categorization
+1. Overview
+2. Attrition Analysis
+3. Root Cause Analysis
+4. Attrition Insights
+5. Employee Risk Prediction
 
-## Dashboard Screenshots
+## Key Insights
+
+- Research & Development department has the highest attrition.
+- Laboratory Technicians show the highest attrition among job roles.
+- Employees in the low salary band are more likely to leave.
+- Most attrition occurs within the first 1–5 years of employment.
+
+## Dashboard Preview
 
 ### Overview
 ![Overview](Screenshots/overview.png)
@@ -43,7 +45,7 @@ An interactive HR Analytics Dashboard developed using Power BI to analyze employ
 ### Root Cause Analysis
 ![Root Cause](Screenshots/rootcause.png)
 
-### Insights
+### Attrition Insights
 ![Insights](Screenshots/insights.png)
 
 ### Prediction
